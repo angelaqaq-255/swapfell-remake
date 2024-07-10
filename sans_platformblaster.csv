@@ -1,0 +1,12 @@
+0,CombatZoneResize,179,251,464,391,,,
+0,HeartTeleport,320,324,,,,,
+0,HeartMode,1,,,,,,
+,,,,,,,,
+0,Sound,Ding,,,,,,
+0.2,BoneVRepeat,169,361,40,0,225,1000,20
+0,PlatformRepeat,0,341,50,0,150,20,120
+,,,,,,,,
+1.5,BoneVRepeat,169,316,80,0,150,20,200
+0,BoneVRepeat,469,316,80,2,150,20,200
+,,,,,,,,
+15,EndAttack,,,,,,,
